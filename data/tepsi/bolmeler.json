@@ -1,0 +1,11 @@
+{
+  "aciklama": "Bölme geometrisi, düzeltilmiş tepsi şablonunun (sablon.png) piksel koordinatlarındadır. kutu = [x1, y1, x2, y2], yaricap = köşe yuvarlaklığı.",
+  "boyut": [1200, 800],
+  "bolmeler": {
+    "kasik_ekmek":  {"rol": "Çatal-kaşık / ekmek",  "kutu": [40, 30, 205, 770],   "yaricap": 70, "analiz": false},
+    "corba":        {"rol": "Çorba",                "kutu": [245, 30, 800, 305],  "yaricap": 45, "analiz": true},
+    "tatli_yogurt": {"rol": "Yoğurt / tatlı",       "kutu": [812, 35, 1160, 305], "yaricap": 45, "analiz": true},
+    "ana_yemek_1":  {"rol": "Ana yemek",            "kutu": [232, 325, 690, 772], "yaricap": 45, "analiz": true},
+    "ana_yemek_2":  {"rol": "Ana yemek",            "kutu": [705, 330, 1162, 770],"yaricap": 45, "analiz": true}
+  }
+}
