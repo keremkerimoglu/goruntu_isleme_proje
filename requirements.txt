@@ -1,0 +1,8 @@
+numpy
+opencv-python
+streamlit
+requests
+beautifulsoup4
+rapidfuzz
+scikit-learn
+pytest
